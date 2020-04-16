@@ -1,4 +1,4 @@
-## The original crackmeup has transmogrified into the [CrackMeUp Twitter Bot](https://github.com/bholagabbar/crackmeup-bot) and the [CrackMeUp Joke API](https://github.com/bholagabbar/crackmeup-api)! Say hi to the bot on twitter [@crackmeupbot](https://twitter.com/crackmeupbot) and find the API at [crackmeup-api.herokuapp.com](crackmeup-api.herokuapp.com).
+## The original crackmeup has transmogrified into the [CrackMeUp Twitter Bot](https://github.com/bholagabbar/crackmeup-bot) and the [CrackMeUp Joke API](https://github.com/bholagabbar/crackmeup-api)! Say hi to the bot on twitter  and find the API at [crackmeup-api.herokuapp.com](crackmeup-api.herokuapp.com).
 
 # crackmeup
 
